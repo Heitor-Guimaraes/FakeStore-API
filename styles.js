@@ -23,6 +23,8 @@ const styles = StyleSheet.create({
     paddingBottom: 14,
   },
   headerTitle: {
+    paddingTop: 15,
+    marginTop: 4,
     fontSize: 30,
     fontWeight: '800',
     color: '#0f172a',
@@ -39,7 +41,7 @@ const styles = StyleSheet.create({
   card: {
     backgroundColor: '#ffffff',
     borderRadius: 16,
-    marginBottom: 12,
+    marginBottom: 18,
     overflow: 'hidden',
     borderWidth: 1,
     borderColor: '#e2e8f0',
